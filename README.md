@@ -1,25 +1,17 @@
-#### Projet de conception d'un systeme de recommandation de contenus basé sur l'intelligence artifcielle
-<img src="docs/imgs/#" alt="images de couverture" width = "100%" height="60px" style="opacity: 0.8;">
-<h3>PLan de conception de notre application</h3>
-<Ol>
-
-    <li><a href="#">Description du projet</a></li>
-    <li><a href="#">Description de l'approche utiliséé</a></li>
-    <li><a href="#">Description du processus Backend</a></li>
-    <li><a href="#">Presentaion de l'interface</a></li>
-    <li><a href="#">Note de fin</a></li>
-</Ol>
-
-<h3>Membres du groupe</h3>
-
-<ul style="border-radius: 5px;background-color: rgb(128, 122, 122);width: 100%;height: auto; padding: 25px 10px;border: 1px solid outset;margin-bottom: 10px;">
-    <li>MBOHOU MOUNPOU YVAN LANDRY      20G00235</li>
-    <li>BRENDA-NDAME RAISSA             20G00067</li>
-    <li>KETOU NTANDI YAYA JALIL         20G00178</li>
+#  Projet de conception d'un systeme de recommandation de contenus basé sur l'intelligence artifcielle
+<img src="docs/imgs/background.jfif" alt="images de couverture" width = "100%" height="250px" style="opacity: 0.8;">
+<h2>Plan de conception de notre application</h2>
+<ul>
+<li><a href="#">Description du projet</a></li>
+<li><a href="#">Description de l'approche utiliséé</a></li>
+<li><a href="#">Description du processus Backend</a></li>
+<li><a href="#">Presentaion de l'interface</a></li>
+<li><a href="#">Note de fin</a></li>
 </ul>
+<br>
 
 <ol>
-    <li style="color: red;">Description du projet</li>
+    <li style="color: red;"><h3>Description du projet</h3></li><br>
     <p>Notre projet consiste en la production d'un algoritheme de recommandation de contenus basé sur l'utilisation d'algorithe de'intelligence artificielle et deployé sur le web à travers un site web du nom de RecomX. <br>
         <strong style="color: blue;">Comment fonctionne t-il?</strong><br>
         Grace aux diverses informations de l'utilisateurs de l'application ainsi que des donnnées que nous disposons , 
@@ -28,9 +20,9 @@
         Les données recoltées de l'utilisateurs sont enregistré dans notre base de données pour etres utilisées à leur tour pour servir premierement à la personnalisation des recommandation et 
         deuxiemement à la recommandation d'autres utilisateurs ayant des similarité avec lui.
     </p>
-    <li style="color: red;">Description de l'approche utilisée</li>
+    <li style="color: red;"><h3>Description de l'approche utilisée</h3></li><br>
     <strong style="color: blue;">Architecture de notre projet</strong><br>
-    <img src="docs/imgs/architecture.png" alt="architecture du projet" width="80%" height="90px">
+    <img src="docs/imgs/architecture.png" alt="architecture du projet" width="80%" height="320px"><br>
     <strong style="color: blue;">Description de l'architecture</strong><br>
     <p>Le projet se focalise sur 3 principaux point:
         <ul>
@@ -40,17 +32,17 @@
             le filtrage de contenus qui tient compte de la popularite d'un produits par rapport aux prefernce de l'utilisateur pour ces recommandations.
         </ul>
     </p>
-    <li style="color: red;">Description du processus backend</li>
+    <li style="color: red;"><h3>Description du processus backend </h3></li><br>
     <P> Le processus de recommandation est basé sur 2 points clés : Le pretraitement de données et la recommandation par le modeles d'IA, tous les deux codés en python.</P>
     <UL>
-        <li style="color: rgb(0, 0, 255);">Les algorithmes de pretraitement des donneés</li>:<br>
+        <li style="color: rgb(0, 156, 255);"><h3>Les algorithmes de pretraitement des donneés :</h3></li><br>
         Les alogorithemes de pretraitement de données premettent de metre en forme les données recoltée pour l'entrainement du modeles d'IA.
         En python, dans un pipeline de pretraitement prealablement  cré, nous construisons successivement des algorithe permettant de mettre à jour, nettoyer, analyser et encoder les données suivant des normes etablies dans le cahier de charge pour pouvoir affiner les recommanadation. <br>
         <strong>Comment cela se passe?</strong><br>
         Une fois les données recoltées et constituant notre dataset, nous trions les données obsolètes, nous effacons les donneés non-necessaires à la conception de notre modele, nous standardisons les données puis nous creons les porgramme permettant de faire un analyse sentiment pour les données de types textes.
         Apres cela nous nettoyons et analysons les données de notre datasets nettoyé pour l'encodage de ceux-ci. <br>
         Une fois cela terminer, nous enregistrons les données utiles à notre algorithme dans des bases de données pour une meilleur utilisation lors de la recolte des données utilisateur. <br>
-        <li style="color: rgb(0, 0, 255);">Le modèle d'IA</li>:<br>
+        <li style="color: rgb(0, 156, 255);">Le modèle d'IA:</li><br>
         Le modele d'IA se focalise pincipalement sur les preference de l'utilisateur concerné par la racommandation. C'est à dire que le systeme ne recommnade que les rpoduits susceptible de plaire à l'utilisateur en fonction des données recoltées. <br>
         <strong>Comment ça marche?</strong><br>
         Une fois l'utilisateur connecté , il lui est demandé d'entrrer ses preferences ou de les choisir parmis un collection d'articles proposée. <br>
