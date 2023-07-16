@@ -1,28 +1,29 @@
 #  Projet de conception d'un systeme de recommandation de contenus basé sur l'intelligence artifcielle
 <img src="docs/imgs/background.jfif" alt="images de couverture" width = "100%" height="250px" style="opacity: 0.8;">
-<h2>Plan de conception de notre application</h2>
+<p>Notre projet consiste en la production d'un algoritheme de recommandation de contenus basé sur l'utilisation d'algorithe de'intelligence artificielle et deployé sur le web à travers un site web <br>
+    
+<h2>Table de matière</h2>
 <ul>
 <li><a href="#">Description du projet</a></li>
 <li><a href="#">Description de l'approche utiliséé</a></li>
 <li><a href="#">Description du processus Backend</a></li>
 <li><a href="#">Presentaion de l'interface</a></li>
-<li><a href="#">Note de fin</a></li>
+<li><a href="#">Installation et utilisation du site</a></li>
+<li><a href="#">Crédits</a></li>
 </ul>
 <br>
 
 <ol>
     <li style="color: red;"><h3>Description du projet</h3></li><br>
-    <p>Notre projet consiste en la production d'un algoritheme de recommandation de contenus basé sur l'utilisation d'algorithe de'intelligence artificielle et deployé sur le web à travers un site web du nom de RecomX. <br>
-        <strong style="color: blue;">Comment fonctionne t-il?</strong><br>
+    <strong style="color: blue;">Comment fonctionne t-il?</strong><br>
         Grace aux diverses informations de l'utilisateurs de l'application ainsi que des donnnées que nous disposons , 
         nous entrainons un modeles d'intelligence artificielle que tient en compte les preferences de l'utilisateur qinsi que 
         ceux des personnes(autres utilisateurs) ayant des similarités de gout avec celui-ci. <br>
         Les données recoltées de l'utilisateurs sont enregistré dans notre base de données pour etres utilisées à leur tour pour servir premierement à la personnalisation des recommandation et 
         deuxiemement à la recommandation d'autres utilisateurs ayant des similarité avec lui.
-    </p>
     <li style="color: red;"><h3>Description de l'approche utilisée</h3></li><br>
     <strong style="color: blue;">Architecture de notre projet</strong><br>
-    <img src="docs/imgs/architecture.png" alt="architecture du projet" width="80%" height="320px"><br>
+    <img src="docs/imgs/architecture.png" alt="architecture du projet" width="100%" height="450px"><br>
     <strong style="color: blue;">Description de l'architecture</strong><br>
     <p>Le projet se focalise sur 3 principaux point:
         <ul>
@@ -49,3 +50,27 @@
         premierement, les données collectées de l'utislisateur sont analysée et traiter par les algorithmes de pretraitement des données et stocker dans des bases de données pour l'entrainement du modèle d'IA.Ensuite, nous utilisons le principe
     </UL>
 </ol>
+<div style = "border-top = 2px solid red" id = "h5">
+  <h2 font-color = "red">Installation et utilisation du projet</h2>
+	<p></p>
+
+<div style = "border-top = 2px solid red" id ="h6">
+  <h2 font-color = "red">Credits</h2>
+	<h3>Langages utilisés</h3>
+	<p>
+		<img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  		<img alt="Static Badge" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+		<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+		<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+		<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	</p>
+ <h3>Me contacter</h3>
+ <p>
+	 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	 <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	 <img alt="Static Badge" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">
+	 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ </p>
+	
+</div>
+
