@@ -52,7 +52,6 @@
 </ol>
 <div style = "border-top = 2px solid red" id = "h5">
   <h2 font-color = "red">Installation et utilisation du projet</h2>
-	<p></p>
 
 <div style = "border-top = 2px solid red" id ="h6">
   <h2 font-color = "red">Credits</h2>
