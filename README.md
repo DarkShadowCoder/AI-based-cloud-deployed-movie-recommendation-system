@@ -46,7 +46,7 @@
         Le modele d'IA se focalise pincipalement sur les preference de l'utilisateur concerné par la recommandation. C'est à dire que le systeme ne recommnade que les rpoduits susceptibles de plaire à l'utilisateur en fonction des données recoltées. <br>
         <strong>Comment ça marche?</strong><br>
         Une fois l'utilisateur connecté , il lui est demandé d'entrrer ses preferences ou de les choisir parmis un collection d'articles proposés. <br>
-        premierement, les données collectées de l'utislisateur sont analysée et traiter par les algorithmes de pretraitement des données et stocker dans des bases de données pour l'entrainement du modèle d'IA.Ensuite, nous utilisons le principe
+        premierement, les données collectées de l'utislisateur sont analysées et traiter par les algorithmes de pretraitement des données et stocker dans des bases de données pour l'entrainement du modèle d'IA.Ensuite, nous utilisons le principe
     </UL>
 </ol>
 <div style = "border-top = 2px solid red" id = "h5">
