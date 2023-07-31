@@ -55,7 +55,7 @@
 	<p></p>
 
 <div style = "border-top = 2px solid red" id ="h6">
-  <h2 font-color = "red">Credis</h2>
+  <h2 font-color = "red">Credits</h2>
 	<h3>Langages utilisés</h3>
 	<p>
 		<img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
