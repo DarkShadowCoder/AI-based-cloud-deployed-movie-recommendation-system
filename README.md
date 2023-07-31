@@ -16,8 +16,7 @@
 <ol>
     <li style="color: red;"><h3>Description du projet</h3></li><br>
     <strong style="color: blue;">Comment fonctionne t-il?</strong><br>
-        Grace aux diverses informations de l'utilisateurs de l'application ainsi que des donnnées que nous disposons , 
-        nous entrainons un modele d'intelligence artificielle que tient en compte les preferences de l'utilisateur qinsi que 
+        Grace aux diverses informations de l'utilisateurs de l'application ainsi que des donnnées que nous disposons , nous entrainons un modele d'intelligence artificielle que tient en compte les preferences de l'utilisateur qinsi que 
         ceux des personnes(autres utilisateurs) ayant des similarités de gout avec celui-ci. <br>
         Les données recoltées de l'utilisateurs sont enregistré dans notre base de données pour etres utilisées à leur tour pour servir premierement à la personnalisation des recommandation et 
         deuxiemement à la recommandation d'autres utilisateurs ayant des similarités avec lui.
