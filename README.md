@@ -2,7 +2,7 @@
 <img src="docs/imgs/background.jfif" alt="images de couverture" width = "100%" height="250px" style="opacity: 0.8;">
 <p>Notre projet consiste en la production d'un algoritheme de recommandation de contenus basé sur l'utilisation d'algorithe de'intelligence artificielle et deployé sur le web à travers un site web <br>
     
-<h2>Table de matière</h2>
+<h2>Table de matièr</h2>
 <ul>
 <li><a href="#">Description du projet</a></li>
 <li><a href="#">Description de l'approche utiliséé</a></li>
