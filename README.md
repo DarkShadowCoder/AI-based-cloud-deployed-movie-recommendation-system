@@ -44,7 +44,7 @@
         Apres cela nous nettoyons et analysons les données de notre datasets nettoyé pour l'encodage de ceux-ci. <br>
         Une fois cela terminer, nous enregistrons les données utiles à notre algorithme dans des bases de données pour une meilleur utilisation lors de la recolte des données utilisateur. <br>
         <li style="color: rgb(0, 156, 255);">Le modèle d'IA:</li><br>
-        Le modele d'IA se focalise pincipalement sur les preference de l'utilisateur concerné par la racommandation. C'est à dire que le systeme ne recommnade que les rpoduits susceptible de plaire à l'utilisateur en fonction des données recoltées. <br>
+        Le modele d'IA se focalise pincipalement sur les preference de l'utilisateur concerné par la recommandation. C'est à dire que le systeme ne recommnade que les rpoduits susceptible de plaire à l'utilisateur en fonction des données recoltées. <br>
         <strong>Comment ça marche?</strong><br>
         Une fois l'utilisateur connecté , il lui est demandé d'entrrer ses preferences ou de les choisir parmis un collection d'articles proposée. <br>
         premierement, les données collectées de l'utislisateur sont analysée et traiter par les algorithmes de pretraitement des données et stocker dans des bases de données pour l'entrainement du modèle d'IA.Ensuite, nous utilisons le principe
