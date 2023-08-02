@@ -4,7 +4,7 @@
     
 <h2>Table de matière</h2>
 <ul>
-<li><a href="#">Description du projet</a></li>
+<li><a href="#">Description</a></li>
 <li><a href="#">Description de l'approche utiliséé</a></li>
 <li><a href="#">Description du processus Backend</a></li>
 <li><a href="#">Presentaion de l'interface</a></li>
