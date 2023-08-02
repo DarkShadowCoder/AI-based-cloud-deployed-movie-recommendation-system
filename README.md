@@ -53,6 +53,7 @@
   <h2 font-color = "red">Installation et utilisation du projet</h2>
   <h3><li>Avec Docker</li></h3>
   <h3><li>Avec l'invite de commande </li></h3>
+  <h2>Interface Utilisateurs</h2>
 
 <div style = "border-top = 2px solid red" id ="h6">
   <h2 font-color = "red">Crédits</h2>
