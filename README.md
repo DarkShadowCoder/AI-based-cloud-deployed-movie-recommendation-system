@@ -75,7 +75,7 @@
   <h3><li>Avec l'invite de commande </li></h3>
    <li>Telecharger le projets dans votre machine grace à la commande git:
  	
-	 git clone --
+	 git clone https://github.com/DarkShadowCoder/AI-based-cloud-deployed-movie-recommendation-system.git
   	 
  </li>
  <li>Ensuite activer l'environnemnt virtuel grace à la commande:
