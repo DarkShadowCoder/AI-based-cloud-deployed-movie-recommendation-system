@@ -55,6 +55,23 @@
 <div style = "border-top = 2px solid red" id = "h5">
   <h2 font-color = "red">Installation et utilisation du projet</h2>
   <h3><li>Avec Docker</li></h3>
+	<p>Docker. Docker est un logiciel qui permet de créer et de gérer des conteneurs, qui sont des environnements isolés pour exécuter des applications. Pour installer Docker, vous devez suivre les étapes suivantes, selon votre système d’exploitation:</p><br>
+<li>Si vous utilisez Windows 10 ou 11, vous devez télécharger le fichier d’installation Docker pour Desktop sur le Docker Hub12, lancer l’installation en tant qu’administrateur, activer les fonctionnalités Hyper-V Windows et lancer Docker.</li>
+<li>Si vous utilisez Windows 10 ou 11, vous devez télécharger le fichier d’installation Docker pour Desktop sur le Docker Hub12, lancer l’installation en tant qu’administrateur, activer les fonctionnalités Hyper-V Windows et lancer Docker.</li>
+	
+	sudo apt update
+ 	sudo apt install apt-transport-https ca-certificates curl software-properties-common
+	curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add 
+	sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+	sudo apt update
+	sudo apt install docker-ce
+ <p>Pour consulter le site web , telecharger l'image docker du projet qui sont des fichiers contenant les divers services de l'applications.Dans l'invite de commande, éxecuter la commande suivante:
+ 	
+	 docker pull test-driven-app
+  <br> Pour executer le conteneur, inserer la commande:
+
+  	docker run -it test-driven-app
+ </p>
   <h3><li>Avec l'invite de commande </li></h3>
 
 <div style = "border-top = 2px solid red" id ="h6">
