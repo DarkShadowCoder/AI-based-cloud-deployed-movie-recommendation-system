@@ -73,6 +73,23 @@
   	docker run -it test-driven-app
  </p>
   <h3><li>Avec l'invite de commande </li></h3>
+   <li>Telecharger le projets dans votre machine grace à la commande git:
+ 	
+	 git clone --
+  	 
+ </li>
+ <li>Ensuite activer l'environnemnt virtuel grace à la commande:
+ 	
+	 source ./env/bin/activate
+ </li>
+ <li>Installer toutes les librairies requise pour executer l'application grace à:
+	
+  	pip install -r requirements.txt
+ </li>
+ <li>Executer le code avec:
+
+ 	npm start
+ </li>
 
 <div style = "border-top = 2px solid red" id ="h6">
   <h2 font-color = "red">Crédits</h2>
