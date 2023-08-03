@@ -50,8 +50,8 @@
     </UL>
 </ol>
 <h2>Interface utilisateur du site web</h2>
-<img src="./docs/imgs/capture2.png">
-<img src="./docs/imgs/capture2.png">
+<img src="docs/imgs/capture2.png"><br>
+<img src="./docs/imgs/capture3.png">
 <div style = "border-top = 2px solid red" id = "h5">
   <h2 font-color = "red">Installation et utilisation du projet</h2>
   <h3><li>Avec Docker</li></h3>
