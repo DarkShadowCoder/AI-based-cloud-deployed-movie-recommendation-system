@@ -49,9 +49,6 @@
         premierement, les données collectées de l'utislisateur sont analysées et traiter par les algorithmes de pretraitement des données et stocker dans des bases de données pour l'entrainement du modèle d'IA.Ensuite, nous utilisons le principe
     </UL>
 </ol>
-<h2>Interface utilisateur du site web</h2>
-<img src="./docs/imgs/capture2.png">
-<img src="./docs/imgs/capture2.png">
 <div style = "border-top = 2px solid red" id = "h5">
   <h2 font-color = "red">Installation et utilisation du projet</h2>
   <h3><li>Avec Docker</li></h3>
